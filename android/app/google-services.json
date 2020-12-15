@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "337989120008",
+    "firebase_url": "https://walphy.firebaseio.com",
+    "project_id": "walphy",
+    "storage_bucket": "walphy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337989120008:android:d80638a1c4a06c775321bd",
+        "android_client_info": {
+          "package_name": "com.mtrsacademy.wallphy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337989120008-1tomf39lkjq3p6eat89h38t7kecqb19m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHOTTLUb27TIe9zE7wprcIJ4UISCgJxAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337989120008-1tomf39lkjq3p6eat89h38t7kecqb19m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
